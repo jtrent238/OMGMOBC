@@ -1,0 +1,10 @@
+c:\users\trent\documents\visual studio 2013\Projects\OMGMOBC\OMGMOBC\bin\Debug\OMGMOBC.exe.config
+c:\users\trent\documents\visual studio 2013\Projects\OMGMOBC\OMGMOBC\bin\Debug\OMGMOBC.exe
+c:\users\trent\documents\visual studio 2013\Projects\OMGMOBC\OMGMOBC\bin\Debug\OMGMOBC.pdb
+c:\users\trent\documents\visual studio 2013\Projects\OMGMOBC\OMGMOBC\bin\Debug\OMGMOBC.xml
+c:\users\trent\documents\visual studio 2013\Projects\OMGMOBC\OMGMOBC\obj\Debug\OMGMOBC.Form1.resources
+c:\users\trent\documents\visual studio 2013\Projects\OMGMOBC\OMGMOBC\obj\Debug\OMGMOBC.Resources.resources
+c:\users\trent\documents\visual studio 2013\Projects\OMGMOBC\OMGMOBC\obj\Debug\OMGMOBC.vbproj.GenerateResource.Cache
+c:\users\trent\documents\visual studio 2013\Projects\OMGMOBC\OMGMOBC\obj\Debug\OMGMOBC.exe
+c:\users\trent\documents\visual studio 2013\Projects\OMGMOBC\OMGMOBC\obj\Debug\OMGMOBC.xml
+c:\users\trent\documents\visual studio 2013\Projects\OMGMOBC\OMGMOBC\obj\Debug\OMGMOBC.pdb
